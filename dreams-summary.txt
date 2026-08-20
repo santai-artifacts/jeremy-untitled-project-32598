@@ -1,0 +1,25 @@
+## Summary of the Dreams Knowledge Base
+
+**Overview**
+The Dreams knowledge base is a newly initialized Santai project created on August 17, 2026. Currently in its early stages, it is minimally populated and serves as a template framework for organizing project work.
+
+**Contents & Organization**
+The base follows Santai's recommended directory structure:
+- **media/** – Designated for reference materials (markdown files, PDFs, images, source code, and other documents) — currently empty
+- **notes/** – General notes and scratch space for quick thoughts — currently empty
+- **Key files:**
+  - `AGENTS.md` – Project structure documentation and Santai conventions guide
+  - `CLAUDE.md` – Brief reference back to AGENTS.md
+  - `STATS.md` – Auto-generated metrics file tracking project statistics
+  - `README.md` – Minimal placeholder file
+
+**Main Themes**
+This is a nascent knowledge base with minimal thematic content. The focus is on establishing proper project infrastructure and organization conventions rather than substantive material.
+
+**Notable Information**
+- **Current Statistics** (as of Aug 20, 2026): 3 files, 119 words, 865 bytes
+- **Version History**: 10 versions tracked since creation, with the last save at Aug 20, 21:41:32 UTC
+- **Single contributor** with no external clones or stars
+- **Organization**: The project explicitly notes that the canonical layout is recommended but not enforced, giving flexibility for how work should be organized
+
+**Status**: This appears to be a fresh project setup awaiting substantive content and development. Both the notes/ and media/ directories are empty, suggesting no ongoing work has been captured yet.
